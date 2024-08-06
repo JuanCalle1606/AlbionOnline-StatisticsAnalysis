@@ -61,8 +61,7 @@ namespace StatisticsAnalysisTool.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://raw.githubusercontent.com/Triky313/AlbionOnline-StatisticsAnalysis/main/s" +
-            "rc/StatisticsAnalysisTool/ao-update-check.xml")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://raw.githubusercontent.com/JuanCalle1606/AlbionOnline-StatisticsAnalysis/blacklist/src/StatisticsAnalysisTool/ao-update-check.xml")]
         public string AutoUpdateConfigUrl {
             get {
                 return ((string)(this["AutoUpdateConfigUrl"]));
@@ -236,8 +235,7 @@ namespace StatisticsAnalysisTool.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://raw.githubusercontent.com/Triky313/AlbionOnline-StatisticsAnalysis/main/s" +
-            "rc/StatisticsAnalysisTool/ao-pre-release-update-check.xml")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://raw.githubusercontent.com/JuanCalle1606/AlbionOnline-StatisticsAnalysis/blacklist/src/StatisticsAnalysisTool/ao-pre-release-update-check.xml")]
         public string AutoUpdatePreReleaseConfigUrl {
             get {
                 return ((string)(this["AutoUpdatePreReleaseConfigUrl"]));

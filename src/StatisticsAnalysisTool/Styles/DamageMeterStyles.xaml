@@ -110,8 +110,11 @@
 
                 <Label Style="{StaticResource DamageMeter.Category.DamageHeal.Color}" Content="{Binding DamageHealShortString}" HorizontalContentAlignment="Left"
                        Width="82" FontWeight="Bold" Margin="0,5,0,0" VerticalAlignment="Top" />
-
+                
                 <Label Content="{Binding Ticks}" Width="70" FontWeight="Bold" Margin="0,5, 5, 0" VerticalAlignment="Top" HorizontalContentAlignment="Left" />
+                
+                <Label  Content="{Binding DamagePerTick, IsAsync=True, FallbackValue=0, Delay=2500 }" FontWeight="Bold" Margin="0,5,0,0" VerticalAlignment="Top" />
+                
             </StackPanel>
         </Grid>
     </DataTemplate>
@@ -268,6 +271,7 @@
                     <Label Content="{Binding TranslationDmgPercent}" FontWeight="Bold" Width="64" Foreground="{StaticResource SolidColorBrush.Accent.Blue.2}" />
                     <Label Content="{Binding TranslationDamageHeal}" FontWeight="Bold" Width="84" Foreground="{StaticResource SolidColorBrush.Accent.Blue.2}"  />
                     <Label Content="{Binding TranslationTicks}" FontWeight="Bold" Width="70" Foreground="{StaticResource SolidColorBrush.Accent.Blue.2}" />
+                    <Label Content="DPT" FontWeight="Bold" Width="70" Foreground="{StaticResource SolidColorBrush.Accent.Blue.2}" />
                 </StackPanel>
                 <ScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Disabled" Margin="0,25,0,0">
                     <ItemsControl ItemsSource="{Binding Spells, IsAsync=True}" ItemTemplate="{StaticResource SpellBarTemplate}">
@@ -427,6 +431,7 @@
                     <Label Content="{Binding TranslationDmgPercent}" FontWeight="Bold" Width="64" Foreground="{StaticResource SolidColorBrush.Accent.Blue.2}" />
                     <Label Content="{Binding TranslationDamageHeal}" FontWeight="Bold" Width="84" Foreground="{StaticResource SolidColorBrush.Accent.Blue.2}"  />
                     <Label Content="{Binding TranslationTicks}" FontWeight="Bold" Width="70" Foreground="{StaticResource SolidColorBrush.Accent.Blue.2}" />
+                    <Label Content="DPT" FontWeight="Bold" Width="70" Foreground="{StaticResource SolidColorBrush.Accent.Blue.2}" />
                 </StackPanel>
                 <ScrollViewer HorizontalScrollBarVisibility="Disabled" VerticalScrollBarVisibility="Disabled" Margin="0,25,0,0">
                     <ItemsControl ItemsSource="{Binding Spells, IsAsync=True}" ItemTemplate="{StaticResource SpellBarTemplate}">

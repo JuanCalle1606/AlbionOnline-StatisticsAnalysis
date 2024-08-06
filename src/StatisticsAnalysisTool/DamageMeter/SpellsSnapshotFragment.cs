@@ -18,6 +18,7 @@ public class SpellsSnapshotFragment : BaseViewModel
     public string UniqueName { get; set; }
     public long DamageHealValue { get; set; }
     public string DamageHealShortString { get; set; }
+    public string DamagePerTick => ((double) DamageHealValue / Ticks).ToShortNumberString();
     public string Target { get; set; }
     public string Category { get; set; }
     public int Ticks { get; set; }

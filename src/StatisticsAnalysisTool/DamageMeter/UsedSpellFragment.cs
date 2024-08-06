@@ -102,6 +102,9 @@ public class UsedSpellFragment : BaseViewModel
         }
     }
 
+    public string DamagePerTick => ((double) _damageHealValue / Ticks).ToShortNumberString();
+        
+
     public double DamageInPercent
     {
         get => _damageInPercent;

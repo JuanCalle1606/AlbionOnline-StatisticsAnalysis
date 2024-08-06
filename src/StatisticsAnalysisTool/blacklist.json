@@ -1,9 +1,27 @@
 [
   {
+    "name": "AMORDEPICES",
+    "reporter": "forami1",
+    "bad": false,
+    "reason": "ballesta que trollea,molesta al tanke,reinicia las pulls,jala agro para matarnos y se sale"
+  },
+  {
+    "name": "Arcanisz",
+    "reason": "pesimo heal va 8 3 y no cura nada izo morir al tank varias veses se perio map 13",
+    "reporter": "vitilio",
+    "bad": false
+  },
+  {
     "name": "Bie4ch",
     "reporter": "Xiloj",
     "bad": false,
     "reason": "No era mi mapa. Asuntos Sospechosos 14. después de la pull del  cofre, había que hacer el mini skip y el tank Bie4ch no se puso zapatos de tenacidad. pasó rooteando. toda la party murió por el  mini boss (no fue culpa del tank) pero por lo mismo los mobs que rooteo lo alcanzaron los intentó pullear y por no haber healer murió. dijo \"GG\" y se salió del mapa por 1 caída."
+  },
+  {
+    "reason": "sc troll se cayo una vez y se salio",
+    "reporter": "leo97390",
+    "name": "Cahe13",
+    "bad": false
   },
   {
     "reason": "Tira de A en el Boss porque se murio solito en el skip (No paso conmigo a tiempo y se murio solo x eso)",
@@ -13,10 +31,46 @@
     "ref": "https://media.discordapp.net/attachments/1160317310645588089/1268995721164492862/image.png?ex=66b2685c&is=66b116dc&hm=45660e50e82624b3fa8283f4b3efe7af87261677257886e86485901dabf5dd52&=&format=webp&quality=lossless"
   },
   {
+    "reason": "no hizo daño en la mayoria del mapa",
+    "name": "CORE87",
+    "reporter": "Ariandee",
+    "bad": true
+  },
+  {
+    "name": "Darkamine",
+    "reason": "niño con con capacidades diferentes que trollea al tanque a propósito",
+    "reporter": "guarnelxl",
+    "bad": false
+  },
+  {
+    "name": "Dianareds",
+    "reason": "Ojito con este DPS, abandono un fungi 14, por irse a CTA, digan q se pudo terminar a tiempo",
+    "reporter": "Stevensooon",
+    "bad": false
+  },
+  {
     "reason": "CHINO HIJO DE SU HERMOSA MADRE, SE SALIO SIN DAR ABSOLUTAMENTE DAR 1 SOLA EXPLICACION",
     "reporter": "Winxalll",
     "name": "Drake7u",
     "bad": false
+  },
+  {
+    "reason": "No hay palabras algunas para describir este engendro, dps trolll con el fros freeza a los dps envez de los mobs, para sacar copy y paste que esta haciendo mas daño que los xbow en cada una de las pools",
+    "reporter": "Raszdesky",
+    "name": "Drkrfreeze",
+    "bad": false
+  },
+  {
+    "reporter": "SHIRLRM",
+    "name": "Elouiza",
+    "reason": "apenas entra en un mapa se sale, siempre tiene tiempo de espera por que se sale de los mapas en mi caso vino como healer y si lo putie un poco por si se queja",
+    "bad": false
+  },
+  {
+    "reason": "pisó 3 veces la bomba en FOS e hizo poco daño, en un mapa 15",
+    "reporter": "Xiloj",
+    "bad": true,
+    "name": "Elysior"
   },
   {
     "reason": "Entra al mapa y se sale apenas empieza, no necesito decir mas",
@@ -31,11 +85,89 @@
     "bad": false
   },
   {
+    "reason": "recién entramos se salio es un heal fue lo que alcance a tomar captura",
+    "reporter": "cerrito1300",
+    "name": "FarmaciaNT",
+    "bad": false
+  },
+  {
+    "name": "Ganksolo",
+    "reporter": "EdgelessCord",
+    "reason": "Este sujeto fue de sc cuando se le pidio que vaya frost en un ravens 14 esto causo que se perdiera el mapa (no era mio pero si era de un tanque que la vdd si es muy bueno) el punto es que fue sc cuando yo era el sc y tmb llevo off tank y se lo puso cuando estabamos haciendo el boss y eso causo la muerte de la party y que se perdiera el mapa cuando el boss tenia 20k de vida la verdad una miseria de jugador",
+    "bad": false
+  },
+  {
+    "reason": "Cuidado con este Tank , mato a toda la party 2 veces y se salio en el boss pq durante todo el mapa en cada pull se cayo termino con 65% en un 17 Acechando por debajo (editado)",
+    "reporter": "Winxalll",
+    "name": "Gunsell",
+    "bad": false
+  },
+  {
+    "reason": "troll mapa con un monje negro 5.2 y después lo abandona",
+    "name": "Hierto ",
+    "reporter": "MaaxiiMaan",
+    "bad": false
+  },
+  {
+    "name": "HizumiLA",
+    "reporter": "Shotyouhead",
+    "reason": "Healer troll hizo perder mapa se comía las bombas del mapa puñado de plata se murió 5 veces en el boss",
+    "bad": false
+  },
+  {
     "reason": "PARA Q SE METE A UN MAPA SI SUPUESTAMENTE TIENE ZVZ , SE SALIO ASI DE LA NADA",
     "reporter": "Winxalll",
     "name": "Holasalva",
     "bad": false,
     "ref": "https://media.discordapp.net/attachments/1160317310645588089/1269035317772550214/image.png?ex=66b1e47d&is=66b092fd&hm=8c3885a16ae9ed76034befc889ce27a4b5bdd5cb9f1c6a074585854a38473212&=&format=webp&quality=lossless"
+  },
+  {
+    "reason": "Healer que no sabe tirar Q o W o E o D y mucho menos tirar botas despues de curar",
+    "name": "Jalamelatripa",
+    "reporter": "Zyxlux1",
+    "bad": true
+  },
+  {
+    "reason": "se salio en pleno mapa y insulto al gremio xd",
+    "reporter": "leo97390",
+    "name": "jedaya",
+    "bad": false
+  },
+  {
+    "reporter": "BladesMaster",
+    "reason": "pesimo tank , maza 5.4 sin agro , no sabe pullear y los boses le salen mal, y me expulso pq no tire suicide en un jefe con menosde un cuarto ed vida para quedarse con el silver ",
+    "name": "Josric",
+    "bad": false
+  },
+  {
+    "reason": "Nos mata a todos en boss de batalla eterna y encima se sale :v era un 12",
+    "reporter": "MorganCad",
+    "name": "Kaki126",
+    "bad": false
+  },
+  {
+    "reason": "tanke pocho que murio en todas las pulls de un three sisters 16 me saco del mapa por disque \"pete\" la verdad la party tmb estaba muy troll y el tanke me estaba culpando de a mi de todo cuando el fue el unico que se cayo ademas del healer y un dps que murio por el healer al hacer el ultimo boss se le activo el area y comenzo a perseguir al dps y lo mato xddd",
+    "reporter": "EdgelessCord",
+    "name": "Kashimlord",
+    "bad": false
+  },
+  {
+    "bad": false,
+    "reporter": "DeatOfSlayer",
+    "reason": "mata la party 5 veces en el inicio en un tres hermana 13 según por lag y mata nueva mente la party 4 veces mas en el boss porque no lo quería bug y que sabia hacerlas 3 juntas  nunca cancelo la habilidad de la de los cuervo y mato a la party se tiltea y abandono el mapa",
+    "name": "Kenyn520"
+  },
+  {
+    "reason": "Vino a un mapa nivel 13 con un monje negro t5",
+    "bad": true,
+    "reporter": "Zeeky",
+    "name": "Kingganjah"
+  },
+  {
+    "reason": "cuidado con este sc el desgraciado casi me hace perder el mapa,no lansaba stickys no dejaba de morirse y en el boss lo tuve que tankear yo solo por que el se la paso todo el rato tirado en el piso y cuando revivi al toque se moria otra vez",
+    "reporter": "Dokufoxplay2",
+    "name": "koalafhf",
+    "bad": false
   },
   {
     "reason": "se quizo robar el cofre a pesar de que se perdio el mapa 18",
@@ -44,10 +176,28 @@
     "bad": false
   },
   {
+    "name": "Lordgrim28032003",
+    "reason": "tiro a por una poll que hiso mal y le echo la culpa al heal",
+    "bad": false,
+    "reporter": "cerrito1300"
+  },
+  {
     "reason": "Fost murió 2 veces mato a la party se salió del mapa después que nos hizo morir  era un nivel 15 se perdió el mapa por el daño",
     "reporter": "TOYOTOMIYANG",
     "bad": false,
     "name": "Mattsudaa"
+  },
+  {
+    "reason": " es tanke el SC llamo una pull sin querer y tiran calma de una y se sale el tanke por que si, no muri nadie en todo el mapa solo por eso se salio por que si, no hubo toxiqueo ni nada (editado)",
+    "reporter": "albertito0",
+    "name": "Maufucious",
+    "bad": false
+  },
+  {
+    "reason": "se salio del mapa porque se murio por culpa de el mismo y se perdio el mapa por falta de dmg",
+    "reporter": "LasterbiHD",
+    "name": "Miguel22455",
+    "bad": false
   },
   {
     "name": "Netsukii",
@@ -57,9 +207,89 @@
     "reporter": "Howardbe"
   },
   {
+    "reason": "Estuvo todo el mapa con laszasaetas y cuando le invite decia que iba ballesta 8.4 entero el set y se cambio a eso todo el mapa",
+    "reporter": "Herrerocrack",
+    "name": "nikitosik4",
+    "ref": "https://media.discordapp.net/attachments/1160317310645588089/1266400641480396810/Screenshot_2024-07-26-09-19-19-293_com.albiononline.jpg?ex=66b23201&is=66b0e081&hm=8c1ef9b35960b9a6fa329458ba7143c4db75d9c9e84eab135db5258dc996ba9e&=&format=webp&width=1440&height=632",
+    "bad": false
+  },
+  {
+    "reason": "healer que no lanza cd, no cura al tanke",
+    "reporter": "FakeNeeko",
+    "name": "nikotarastafari",
+    "bad": false
+  },
+  {
     "name": "OLDkronos",
     "reason": "tiro de a por que le dije que me cure cuando los mobs tienen q y que me de cd en las big",
     "reporter": "aeamano",
+    "bad": false
+  },
+  {
+    "reporter": "vitilio",
+    "name": "pachatuytec",
+    "reason": "se salio del mapa por q murio por su culpa",
+    "bad": false
+  },
+  {
+    "reason": "me izo morrir en el skip y de garra le dije q no se tiraban abilidades se altero y se fue osea tiro de a",
+    "reporter": "vitilio",
+    "name": "pennyie",
+    "bad": false
+  },
+  {
+    "name": "Pimp0lla",
+    "reason": "SC se emputa pq uno de los DPS no tiro botas y lo mato el area del Arquero , y la otra se murio por areas de las brujas xD , empezo a insultar y se salio",
+    "bad": false,
+    "reporter": "Winxalll",
+    "ref": "https://media.discordapp.net/attachments/1160317310645588089/1267147146914824318/Captura_de_pantalla_2024-07-28_104627.png?ex=66b2463e&is=66b0f4be&hm=612ae7ca1e7125789bca753c4c6771e25446bd721180549df4052d34c2deacbb&=&format=webp&quality=lossless"
+  },
+  {
+    "reason": "FROST TROLL EN MAPA 16 ASUNTOS SOPECHOSOS , RAZON : CONGELO AL HEALER EN EL BOSS, LLAMO AL BOSS Y MATO A TODA LA PT , AFK MEDIO MAPA (editado)",
+    "reporter": "Winxalll",
+    "name": "Qwayke",
+    "bad": false
+  },
+  {
+    "reporter": "Pilsendlata",
+    "reason": "TANK trolazo haciendo cosas de ramdoms matando a toda la party en el boss y como fui el unico q sobrevivio me expulsa por no morir con ellos XD",
+    "name": "Ragemenma",
+    "bad": false
+  },
+  {
+    "name": "Roert06",
+    "reporter": "vitilio",
+    "reason": "se salio del mapa por que murio en el skip de garra tirando E",
+    "bad": false
+  },
+  {
+    "bad": false,
+    "name": "RoxyTesting",
+    "reporter": "RoxyMigurgia",
+    "reason": "Este es un reporte de blacklist de prueba, por favor no tomar en cuenta."
+  },
+  {
+    "reason": "cuidado no sabe tanquear y se mete en mapas altos",
+    "bad": true,
+    "reporter": "Machi",
+    "name": "shedowax"
+  },
+  {
+    "bad": false,
+    "name": "SirrKnight",
+    "reporter": "Xiloj",
+    "reason": "Mal healer, y trolea mapas. se sale de los mapas por que una party random le decía que curaba mal. "
+  },
+  {
+    "reason": " El señor uso este swat en el boss de FOS LVL 13 con esa build y durante el mapa nos morimos tres veces tras errar varias pulls, se nota que está empezando a tankear. ",
+    "name": "Soymariio",
+    "bad": true,
+    "reporter": "Errtesh"
+  },
+  {
+    "name": "Szfowl",
+    "reporter": "ElHalconBlanco",
+    "reason": "no da cd al tank, el tank le pide cd y se sale del mapa, se perdió un lvl 14",
     "bad": false
   },
   {
@@ -70,40 +300,10 @@
     "ref": ""
   },
   {
-    "reason": "TROLLEO MAPA MURIENDOSE COMO 5 VECE Y MATANDO A LA PARTY MUCHAS VECES se perdio mapa era mio",
-    "name": "Xmgaming",
-    "reporter": "MaaxiiMaan",
+    "reason": "el frost se queja por que se cae el tanke que el mismo dice que esta aprendiendo y no me da tiempo de curarlo deja de pegar en las pulls solo para decirme que no se curar y se sale del mapa",
+    "reporter": "forami1",
+    "name": "Tsokeitora",
     "bad": false
-  },
-  {
-    "reason": "no hizo daño en la mayoria del mapa",
-    "name": "CORE87",
-    "reporter": "Ariandee",
-    "bad": true
-  },
-  {
-    "reason": "Healer que no sabe tirar Q o W o E o D y mucho menos tirar botas despues de curar",
-    "name": "Jalamelatripa",
-    "reporter": "Zyxlux1",
-    "bad": true
-  },
-  {
-    "reason": " El señor uso este swat en el boss de FOS LVL 13 con esa build y durante el mapa nos morimos tres veces tras errar varias pulls, se nota que está empezando a tankear. ",
-    "name": "Soymariio",
-    "bad": true,
-    "reporter": "Errtesh"
-  },
-  {
-    "reason": "tanke pocho que murio en todas las pulls de un three sisters 16 me saco del mapa por disque \"pete\" la verdad la party tmb estaba muy troll y el tanke me estaba culpando de a mi de todo cuando el fue el unico que se cayo ademas del healer y un dps que murio por el healer al hacer el ultimo boss se le activo el area y comenzo a perseguir al dps y lo mato xddd",
-    "reporter": "EdgelessCord",
-    "name": "Kashimlord",
-    "bad": false
-  },
-  {
-    "name": "Xbattou",
-    "reporter": "MaaxiiMaan",
-    "bad": false,
-    "reason": "trolleo 3 vece congelando al tanke sin razo y queriendolo matar a proposito y despues de eso me intento matar ami con unos bichos"
   },
   {
     "reason": "frost que murió 1 o 2 veces en un Fishy Bussines 18 y se tiró de A en el boss, se perdió mapa",
@@ -112,96 +312,15 @@
     "name": "Vaxei"
   },
   {
-    "name": "Pimp0lla",
-    "reason": "SC se emputa pq uno de los DPS no tiro botas y lo mato el area del Arquero , y la otra se murio por areas de las brujas xD , empezo a insultar y se salio",
+    "name": "Xbattou",
+    "reporter": "MaaxiiMaan",
     "bad": false,
-    "reporter": "Winxalll",
-    "ref": "https://media.discordapp.net/attachments/1160317310645588089/1267147146914824318/Captura_de_pantalla_2024-07-28_104627.png?ex=66b2463e&is=66b0f4be&hm=612ae7ca1e7125789bca753c4c6771e25446bd721180549df4052d34c2deacbb&=&format=webp&quality=lossless"
+    "reason": "trolleo 3 vece congelando al tanke sin razo y queriendolo matar a proposito y despues de eso me intento matar ami con unos bichos"
   },
   {
-    "name": "Lordgrim28032003",
-    "reason": "tiro a por una poll que hiso mal y le echo la culpa al heal",
-    "bad": false,
-    "reporter": "cerrito1300"
-  },
-  {
-    "reason": "recién entramos se salio es un heal fue lo que alcance a tomar captura",
-    "reporter": "cerrito1300",
-    "name": "FarmaciaNT",
-    "bad": false
-  },
-  {
-    "reason": "Nos mata a todos en boss de batalla eterna y encima se sale :v era un 12",
-    "reporter": "MorganCad",
-    "name": "Kaki126",
-    "bad": false
-  },
-  {
-    "reason": "me izo morrir en el skip y de garra le dije q no se tiraban abilidades se altero y se fue osea tiro de a",
-    "reporter": "vitilio",
-    "name": "pennyie",
-    "bad": false
-  },
-  {
-    "reason": "Estuvo todo el mapa con laszasaetas y cuando le invite decia que iba ballesta 8.4 entero el set y se cambio a eso todo el mapa",
-    "reporter": "Herrerocrack",
-    "name": "nikitosik4",
-    "ref": "https://media.discordapp.net/attachments/1160317310645588089/1266400641480396810/Screenshot_2024-07-26-09-19-19-293_com.albiononline.jpg?ex=66b23201&is=66b0e081&hm=8c1ef9b35960b9a6fa329458ba7143c4db75d9c9e84eab135db5258dc996ba9e&=&format=webp&width=1440&height=632",
-    "bad": false
-  },
-  {
-    "name": "ZauzaEstoraXota",
-    "reporter": "Ariandee",
-    "reason": " se salio del mapa, solo por morir pero porque el se quedo quieto",
-    "bad": false
-  },
-  {
-    "name": "Dianareds",
-    "reason": "Ojito con este DPS, abandono un fungi 14, por irse a CTA, digan q se pudo terminar a tiempo",
-    "reporter": "Stevensooon",
-    "bad": false
-  },
-  {
-    "reason": "el frost se queja por que se cae el tanke que el mismo dice que esta aprendiendo y no me da tiempo de curarlo deja de pegar en las pulls solo para decirme que no se curar y se sale del mapa",
-    "reporter": "forami1",
-    "name": "Tsokeitora",
-    "bad": false
-  },
-  {
-    "reason": " es tanke el SC llamo una pull sin querer y tiran calma de una y se sale el tanke por que si, no muri nadie en todo el mapa solo por eso se salio por que si, no hubo toxiqueo ni nada (editado)",
-    "reporter": "albertito0",
-    "name": "maufucious",
-    "bad": false
-  },
-  {
-    "name": "AMORDEPICES",
-    "reason": "ballesta que trollea,molesta al tanke,reinicia las pulls,jala agro para matarnos y se sale",
-    "reporter": "forami1",
-    "bad": false
-  },
-  {
-    "ref": "https://media.discordapp.net/attachments/1160317310645588089/1264846741103181876/2024-07-22_03-22-13.mp4?ex=66b27992&is=66b12812&hm=609469a7b76a6785d87fb397b05203da4299afb7ba87f316de7741290ebe0ef7&",
-    "reporter": "FakeNeeko",
-    "name": "Zed626",
-    "reason": "Mata a los demas con el ataque de las bruja morgana a proposito",
-    "bad": false
-  },
-  {
-    "name": "Roert06",
-    "reporter": "vitilio",
-    "reason": "se salio del mapa por que murio en el skip de garra tirando E",
-    "bad": false
-  },
-  {
-    "reason": "cuidado con este sc el desgraciado casi me hace perder el mapa,no lansaba stickys no dejaba de morirse y en el boss lo tuve que tankear yo solo por que el se la paso todo el rato tirado en el piso y cuando revivi al toque se moria otra vez",
-    "reporter": "Dokufoxplay2",
-    "name": "koalafhf",
-    "bad": false
-  },
-  {
-    "name": "HizumiLA",
-    "reporter": "Shotyouhead",
-    "reason": "Healer troll hizo perder mapa se comía las bombas del mapa puñado de plata se murió 5 veces en el boss",
+    "reason": "TROLLEO MAPA MURIENDOSE COMO 5 VECE Y MATANDO A LA PARTY MUCHAS VECES se perdio mapa era mio",
+    "name": "Xmgaming",
+    "reporter": "MaaxiiMaan",
     "bad": false
   },
   {
@@ -211,63 +330,22 @@
     "bad": false
   },
   {
-    "name": "Arcanisz",
-    "reason": "pesimo heal va 8 3 y no cura nada izo morir al tank varias veses se perio map 13",
-    "reporter": "vitilio",
-    "bad": false
-  },
-  {
-    "reporter": "vitilio",
-    "name": "pachatuytec",
-    "reason": "se salio del mapa por q murio por su culpa",
-    "bad": false
-  },
-  {
-    "name": "Szfowl",
-    "reporter": "ElHalconBlanco",
-    "reason": "no da cd al tank, el tank le pide cd y se sale del mapa, se perdió un lvl 14",
-    "bad": false
-  },
-  {
-    "reporter": "SHIRLRM",
-    "name": "Elouiza",
-    "reason": "apenas entra en un mapa se sale, siempre tiene tiempo de espera por que se sale de los mapas en mi caso vino como healer y si lo putie un poco por si se queja",
-    "bad": false
-  },
-  {
-    "reason": "troll mapa con un monje negro 5.2 y después lo abandona",
-    "name": "Hierto ",
-    "reporter": "MaaxiiMaan",
-    "bad": false
-  },
-  {
-    "reporter": "BladesMaster",
-    "reason": "pesimo tank , maza 5.4 sin agro , no sabe pullear y los boses le salen mal, y me expulso pq no tire suicide en un jefe con menosde un cuarto ed vida para quedarse con el silver ",
-    "name": "Josric",
-    "bad": false
-  },
-  {
-    "reason": "se salio del mapa porque se murio por culpa de el mismo y se perdio el mapa por falta de dmg",
-    "reporter": "LasterbiHD",
-    "name": "Miguel22455",
-    "bad": false
-  },
-  {
-    "bad": false,
-    "reporter": "DeatOfSlayer",
-    "reason": "mata la party 5 veces en el inicio en un tres hermana 13 según por lag y mata nueva mente la party 4 veces mas en el boss porque no lo quería bug y que sabia hacerlas 3 juntas  nunca cancelo la habilidad de la de los cuervo y mato a la party se tiltea y abandono el mapa",
-    "name": "Kenyn520"
-  },
-  {
-    "bad": false,
-    "name": "SirrKnight",
+    "reason": "Cuidado con este Tank troll usó sandalias de diablo para intentar matarme con el boss. y casi se pierde el mapa",
     "reporter": "Xiloj",
-    "reason": "Mal healer, y trolea mapas. se sale de los mapas por que una party random le decía que curaba mal. "
+    "name": "Zagorulko",
+    "bad": false
   },
   {
-    "bad": false,
-    "name": "RoxyTesting",
-    "reporter": "RoxyMigurgia",
-    "reason": "Este es un reporte de blacklist de prueba, por favor no tomar en cuenta."
+    "name": "ZauzaEstoraXota",
+    "reporter": "Ariandee",
+    "reason": " se salio del mapa, solo por morir pero porque el se quedo quieto",
+    "bad": false
+  },
+  {
+    "ref": "https://media.discordapp.net/attachments/1160317310645588089/1264846741103181876/2024-07-22_03-22-13.mp4?ex=66b27992&is=66b12812&hm=609469a7b76a6785d87fb397b05203da4299afb7ba87f316de7741290ebe0ef7&",
+    "reporter": "FakeNeeko",
+    "name": "Zed626",
+    "reason": "Mata a los demas con el ataque de las bruja morgana a proposito",
+    "bad": false
   }
 ]

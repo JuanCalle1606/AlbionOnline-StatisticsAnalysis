@@ -36730,7 +36730,7 @@
           "seg": "公会管理"
         },
         {
-          "lang": "ES-es",
+          "lang": "es-ES",
           "seg": "Gremio"
         }
       ]
@@ -37323,6 +37323,19 @@
         {
           "lang": "en-US",
           "seg": "Blacklisted"
+        }
+      ]
+    },
+    {
+      "tuid": "BLACKLISTED_BY",
+      "tuv": [
+        {
+          "lang": "es-ES",
+          "seg": "Blacklisteado por: "
+        },
+        {
+          "lang": "en-US",
+          "seg": "Blacklisted by: "
         }
       ]
     }

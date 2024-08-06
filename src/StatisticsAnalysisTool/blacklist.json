@@ -263,5 +263,11 @@
     "name": "SirrKnight",
     "reporter": "Xiloj",
     "reason": "Mal healer, y trolea mapas. se sale de los mapas por que una party random le decía que curaba mal. "
+  },
+  {
+    "bad": false,
+    "name": "RoxyTesting",
+    "reporter": "RoxyMigurgia",
+    "reason": "Este es un reporte de blacklist de prueba, por favor no tomar en cuenta."
   }
 ]

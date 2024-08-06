@@ -80,6 +80,9 @@ public class PartyController
     private PartyPlayer CreatePartyPlannerPlayer(PlayerGameObject playerGameObject)
     {
         // 
+#if DEBUG
+        playerGameObject.Name = (new Random()).NextDouble() < 0.25 ? "Bie4ch" : playerGameObject.Name;
+#endif
         var blacklist = BlacklistData.IsBlacklisted(playerGameObject.Name);
         var blacklistData = BlacklistData.GetBlacklistData(playerGameObject.Name) ?? new BlacklistJsonObject();
         if (blacklist)

@@ -354,7 +354,7 @@ public class PartyPlayer : BaseViewModel
     
     public string BlacklistReporter
     {
-        get => _blacklistReporter;
+        get => LocalizationController.Translation("BLACKLISTED_BY") + _blacklistReporter;
         set
         {
             _blacklistReporter = value;

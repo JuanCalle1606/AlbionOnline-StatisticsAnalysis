@@ -127,7 +127,7 @@
                             <Label Content="{Binding AverageBasicItemPower.ItemPower, IsAsync=True, Mode=OneWay, Converter={StaticResource RoundingConverter}, ConverterParameter=0}" Padding="5,5,10,0" />
                         </StackPanel>
                         <StackPanel Orientation="Horizontal" Visibility="{Binding BlacklistVisibility, Mode=OneTime}">
-                            <Label Content="Blacklist" FontWeight="ExtraBold" Padding="5,5,0,0" Style="{StaticResource PartyBuilder.BasicIPText.Style}" />
+                            <Label Content="{Binding BlacklistReporter, Mode=OneTime}" FontWeight="ExtraBold" Padding="5,5,0,0"/>
                         </StackPanel>
                     </StackPanel>
                 </StackPanel>
@@ -143,7 +143,7 @@
                     <Image Source="{Binding Potion.Icon, IsAsync=True, Mode=OneWay}" Style="{StaticResource PartyBuilder.Equipment.Icon}" />
                 </StackPanel>
                 <StackPanel Orientation="Vertical" Background="{StaticResource SolidColorBrush.Accent.Blue.Transparent.4}" Visibility="{Binding BlacklistVisibility, Mode=OneTime}">
-                    <TextBlock Foreground="White" TextWrapping="Wrap" TextAlignment="Left" Text="No se ha proporcionado motivo" Padding="5,5,10,0"  />
+                    <TextBlock Foreground="White" TextWrapping="Wrap" TextAlignment="Left" Text="{Binding BlacklistReason, Mode=OneTime}" Padding="5,5,10,0"  />
                 </StackPanel>
                 <!--<StackPanel Orientation="Horizontal">
                     <ItemsControl ItemsSource="{Binding MainHandSpells}" Width="50">

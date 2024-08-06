@@ -4,5 +4,6 @@ public enum NotificationFilterType
 {
     Unknown,
     Trade,
-    TrackingStatus
+    TrackingStatus,
+    Blacklisted,
 }

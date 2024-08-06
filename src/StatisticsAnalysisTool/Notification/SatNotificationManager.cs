@@ -1,9 +1,11 @@
 ﻿using Notification.Wpf;
 using StatisticsAnalysisTool.Common.UserSettings;
 using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Media;
+using StatisticsAnalysisTool.Localization;
 
 namespace StatisticsAnalysisTool.Notification;
 
@@ -150,6 +152,41 @@ public class SatNotificationManager
                     CloseOnClick = true,
                     Foreground = ForegroundText1,
                     Background = BackgroundGreen
+                };
+
+                _notificationManager.Show(content);
+            });
+        }
+        catch (TaskCanceledException)
+        {
+            // ignore
+        }
+    }
+
+    public async Task ShowBlacklistedAsync(string name)
+    {
+        if (!SettingsController.CurrentSettings.IsBlacklistNotificationActive
+            || ForegroundText1 == null
+            || BackgroundRed == null
+            || Application.Current == null)
+        {
+            return;
+        }
+
+        try
+        {
+            await Application.Current.Dispatcher.InvokeAsync(() =>
+            {
+                var content = new NotificationContent
+                {
+                    Title = LocalizationController.Translation("BLACKLISTED"),
+                    Message = LocalizationController.Translation("BLACKLISTED_WARNING", ["name"], [name]),
+                    Type = NotificationType.Error,
+                    TrimType = NotificationTextTrimType.AttachIfMoreRows,
+                    RowsCount = 1,
+                    CloseOnClick = true,
+                    Foreground = ForegroundText1,
+                    Background = BackgroundRed
                 };
 
                 _notificationManager.Show(content);

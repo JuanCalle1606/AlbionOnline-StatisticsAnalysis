@@ -575,6 +575,9 @@
     <Resource Include="Resources\shrine_combat_buff.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+    <None Update="blacklist.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Albion-Api-Doku-And-Useful-Things.txt" />

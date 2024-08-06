@@ -212,6 +212,7 @@ public class SettingsWindowViewModel : BaseViewModel
     {
         SettingsController.CurrentSettings.IsNotificationFilterTradeActive = NotificationFilters?.FirstOrDefault(x => x?.NotificationFilterType == NotificationFilterType.Trade)?.IsSelected ?? true;
         SettingsController.CurrentSettings.IsNotificationTrackingStatusActive = NotificationFilters?.FirstOrDefault(x => x?.NotificationFilterType == NotificationFilterType.TrackingStatus)?.IsSelected ?? true;
+        SettingsController.CurrentSettings.IsBlacklistNotificationActive = NotificationFilters?.FirstOrDefault(x => x?.NotificationFilterType == NotificationFilterType.Blacklisted)?.IsSelected ?? true;
     }
 
     public void ResetPlayerSelectionWithSameNameInDb()
@@ -431,6 +432,12 @@ public class SettingsWindowViewModel : BaseViewModel
         {
             IsSelected = SettingsController.CurrentSettings.IsNotificationTrackingStatusActive,
             Name = LocalizationController.Translation("TRACKING_STATUS")
+        });
+        
+        NotificationFilters.Add(new NotificationFilter(NotificationFilterType.Blacklisted)
+        {
+            IsSelected = SettingsController.CurrentSettings.IsBlacklistNotificationActive,
+            Name = LocalizationController.Translation("BLACKLISTED_PLAYER")
         });
     }
 

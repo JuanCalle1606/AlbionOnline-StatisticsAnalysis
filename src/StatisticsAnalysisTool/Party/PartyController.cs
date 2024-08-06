@@ -9,6 +9,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using StatisticsAnalysisTool.GameFileData;
+using StatisticsAnalysisTool.GameFileData.Models;
+using StatisticsAnalysisTool.Notification;
 
 namespace StatisticsAnalysisTool.Party;
 
@@ -76,6 +79,14 @@ public class PartyController
 
     private PartyPlayer CreatePartyPlannerPlayer(PlayerGameObject playerGameObject)
     {
+        // 
+        var blacklist = BlacklistData.IsBlacklisted(playerGameObject.Name);
+        var blacklistData = BlacklistData.GetBlacklistData(playerGameObject.Name) ?? new BlacklistJsonObject();
+        if (blacklist)
+        {
+            _ = ServiceLocator.Resolve<SatNotificationManager>().ShowBlacklistedAsync(playerGameObject.Name);
+        }
+        
         return new PartyPlayer()
         {
             Guid = playerGameObject.UserGuid,
@@ -99,7 +110,10 @@ public class PartyController
             ShoesSpells = playerGameObject.CharacterEquipment?.GetShoesSpells() ?? new List<Spell>(),
             MountSpells = playerGameObject.CharacterEquipment?.GetMountSpells() ?? new List<Spell>(),
             PotionSpells = playerGameObject.CharacterEquipment?.GetPotionSpells() ?? new List<Spell>(),
-            FoodSpells = playerGameObject.CharacterEquipment?.GetFoodSpells() ?? new List<Spell>()
+            FoodSpells = playerGameObject.CharacterEquipment?.GetFoodSpells() ?? new List<Spell>(),
+            IsPlayerBlacklisted = blacklist,
+            BlacklistReason = blacklistData.Reason,
+            BlacklistReporter = blacklistData.Reporter,
         };
     }
 

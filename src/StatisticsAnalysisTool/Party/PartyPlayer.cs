@@ -4,6 +4,7 @@ using StatisticsAnalysisTool.Models;
 using StatisticsAnalysisTool.ViewModels;
 using System;
 using System.Collections.Generic;
+using System.Windows;
 
 namespace StatisticsAnalysisTool.Party;
 
@@ -36,6 +37,10 @@ public class PartyPlayer : BaseViewModel
     private bool _isPlayerInspected;
     private DateTime _lastUpdate;
     private bool _isDeathAlertActive;
+    private bool _isPlayerBlacklisted;
+    private string _blacklistReason;
+    private string _blacklistReporter;
+    
     public Guid Guid { get; init; }
 
     public string Username
@@ -321,6 +326,38 @@ public class PartyPlayer : BaseViewModel
         set
         {
             _isDeathAlertActive = value;
+            OnPropertyChanged();
+        }
+    }
+    
+    public bool IsPlayerBlacklisted
+    {
+        get => _isPlayerBlacklisted;
+        set
+        {
+            _isPlayerBlacklisted = value;
+            OnPropertyChanged();
+        }
+    }
+    
+    public Visibility BlacklistVisibility => IsPlayerBlacklisted ? Visibility.Visible : Visibility.Collapsed;
+    
+    public string BlacklistReason
+    {
+        get => _blacklistReason;
+        set
+        {
+            _blacklistReason = value;
+            OnPropertyChanged();
+        }
+    }
+    
+    public string BlacklistReporter
+    {
+        get => _blacklistReporter;
+        set
+        {
+            _blacklistReporter = value;
             OnPropertyChanged();
         }
     }

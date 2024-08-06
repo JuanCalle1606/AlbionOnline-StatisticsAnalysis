@@ -127,6 +127,7 @@ public static class GameData
             taskFactories.Add(MistsData.LoadDataAsync);
             taskFactories.Add(WorldData.LoadDataAsync);
             taskFactories.Add(SpellData.LoadDataAsync);
+            taskFactories.Add(BlacklistData.LoadDataAsync);
 
             int totalTasks = taskFactories.Count;
             int completedTasks = 0;

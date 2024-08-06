@@ -35647,6 +35647,10 @@
         {
           "lang": "zh-CN",
           "seg": "加载中"
+        },
+        {
+          "lang": "es-ES",
+          "seg": "Cargando"
         }
       ]
     },
@@ -36724,6 +36728,10 @@
         {
           "lang": "zh-CN",
           "seg": "公会管理"
+        },
+        {
+          "lang": "ES-es",
+          "seg": "Gremio"
         }
       ]
     },
@@ -37064,6 +37072,10 @@
         {
           "lang": "zh-CN",
           "seg": "队伍管理"
+        },
+        {
+          "lang": "es-ES",
+          "seg": "Grupo"
         }
       ]
     },
@@ -37272,6 +37284,45 @@
         {
           "lang": "en-US",
           "seg": "Average est. Market value"
+        }
+      ]
+    },
+    {
+      "tuid": "BLACKLISTED_PLAYER",
+      "tuv": [
+        {
+          "lang": "es-ES",
+          "seg": "Jugador Blacklisteado"
+        },
+        {
+          "lang": "en-US",
+          "seg": "Blacklisted Player"
+        }
+      ]
+    },
+    {
+      "tuid": "BLACKLISTED_WARNING",
+      "tuv": [
+        {
+          "lang": "es-ES",
+          "seg": "{name} esta blacklisteado"
+        },
+        {
+          "lang": "en-US",
+          "seg": "{name} is blacklisted"
+        }
+      ]
+    },
+    {
+      "tuid": "BLACKLISTED",
+      "tuv": [
+        {
+          "lang": "es-ES",
+          "seg": "Blacklisteado"
+        },
+        {
+          "lang": "en-US",
+          "seg": "Blacklisted"
         }
       ]
     }

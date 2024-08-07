@@ -58,6 +58,7 @@ public class UsedSpellFragment : BaseViewModel
         {
             _damageHealValue = value;
             DamageHealShortString = _damageHealValue.ToShortNumberString();
+            DamagePerTick = null;
             OnPropertyChanged();
         }
     }
@@ -102,8 +103,15 @@ public class UsedSpellFragment : BaseViewModel
         }
     }
 
-    public string DamagePerTick => ((double) _damageHealValue / Ticks).ToShortNumberString();
-        
+    public string DamagePerTick
+    {
+        get { return ((double) _damageHealValue / Ticks).ToShortNumberString(); }
+        set
+        {
+            OnPropertyChanged();
+        }
+    }
+
 
     public double DamageInPercent
     {

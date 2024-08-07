@@ -12,6 +12,12 @@
     "bad": false
   },
   {
+    "reason": "Healer se sale a mitad de una 14 por robar agro y no tirar botas xd muere 1 sola vez",
+    "bad": false,
+    "reporter": "Raszdesky",
+    "name": "Arjhidazz"
+  },
+  {
     "name": "Bie4ch",
     "reporter": "Xiloj",
     "bad": false,
@@ -43,6 +49,12 @@
     "bad": false
   },
   {
+    "reason": "otro mas de este gremio (B E A R P A W S) ... se puso a insultar luego de que lo sacaran por troll y luego me viene a llorar al privado",
+    "bad": false,
+    "reporter": "Machi",
+    "name": "Deozin"
+  },
+  {
     "name": "Dianareds",
     "reason": "Ojito con este DPS, abandono un fungi 14, por irse a CTA, digan q se pudo terminar a tiempo",
     "reporter": "Stevensooon",
@@ -56,9 +68,9 @@
   },
   {
     "reason": "No hay palabras algunas para describir este engendro, dps trolll con el fros freeza a los dps envez de los mobs, para sacar copy y paste que esta haciendo mas daño que los xbow en cada una de las pools",
+    "bad": false,
     "reporter": "Raszdesky",
-    "name": "Drkrfreeze",
-    "bad": false
+    "name": "Drkfreeze"
   },
   {
     "reporter": "SHIRLRM",
@@ -79,15 +91,9 @@
     "bad": false
   },
   {
-    "name": "Farmaciant",
+    "name": "FarmaciaNT",
     "reason": "Heal no hace acoso cuando se le una indicación, luego no cura en toda la pull se muere, insulta en portugués y se va del mapa",
     "reporter": "RaySkill",
-    "bad": false
-  },
-  {
-    "reason": "recién entramos se salio es un heal fue lo que alcance a tomar captura",
-    "reporter": "cerrito1300",
-    "name": "FarmaciaNT",
     "bad": false
   },
   {
@@ -176,6 +182,12 @@
     "bad": false
   },
   {
+    "reason": "gonorrea q tira de A",
+    "reporter": "Pilsendlata",
+    "bad": false,
+    "name": "Lihae"
+  },
+  {
     "name": "Lordgrim28032003",
     "reason": "tiro a por una poll que hiso mal y le echo la culpa al heal",
     "bad": false,
@@ -194,10 +206,29 @@
     "bad": false
   },
   {
+    "reporter": "Xiloj",
+    "bad": false,
+    "name": "MeeLack",
+    "reason": " Batalla Eterna 18, Big Pull después del primer Skip.  Troleó en pull, haciendome morir al tirar una sticky a la pull y llamar el agro de los mobs, haciendo que la pull quedara desacomodada y no poder stunear a todos los mobs. morí por eso mismo. \nLe dije que para qué tiró sticky, y dijo  \"Soy tank 18 y acá uso sticky\" muy soberbio o muy egoplayer. le dije que él no estaba tanqueando para venir a hacer eso. Y se la pasó hablando basura todo el mapa. Dejo foto de lo que decía. ",
+    "ref": "https://media.discordapp.net/attachments/1160317310645588089/1270592661304377384/image.png?ex=66b4ebe0&is=66b39a60&hm=2fbc52378cc02c712be14216e950f3a39a54efef80a2419024f12aa909db51bf&=&format=webp&quality=lossless"
+  },
+  {
     "reason": "se salio del mapa porque se murio por culpa de el mismo y se perdio el mapa por falta de dmg",
     "reporter": "LasterbiHD",
     "name": "Miguel22455",
     "bad": false
+  },
+  {
+    "reason": "se queda afk y tira de A",
+    "bad": false,
+    "name": "Naiyara",
+    "reporter": "Howardbe"
+  },
+  {
+    "reason": "tira de A en mapas. después de que se reseteara el boss con menos de 100k de vida porque el healer murió el sc se quedó parado esperando a que el tiempo corriese sin hacer daño al boss. luego tiró de A cuando se le dice que  está troleando. ",
+    "bad": false,
+    "reporter": "Xiloj",
+    "name": "Nakhoma"
   },
   {
     "name": "Netsukii",
@@ -205,6 +236,12 @@
     "bad": false,
     "ref": "https://streamable.com/5w0l7p",
     "reporter": "Howardbe"
+  },
+  {
+    "reason": "No hacia daño como sc, falto demasiado daño para hacer las pulls (no usaba su chaqueta y tampoco hacia bien el combo) provocando que nos matara un total de 5 veces en el mapa (se perdio el mapa)",
+    "bad": false,
+    "reporter": "Zyxlux1",
+    "name": "Nikets12"
   },
   {
     "reason": "Estuvo todo el mapa con laszasaetas y cuando le invite decia que iba ballesta 8.4 entero el set y se cambio a eso todo el mapa",
@@ -293,6 +330,12 @@
     "bad": false
   },
   {
+    "reporter": "julio.9344",
+    "reason": "no sabe hacer pools y mata a la party y luego se sale del mapa",
+    "bad": false,
+    "name": "Tawejdati"
+  },
+  {
     "name": "Tilininsanowaza",
     "reason": "se enojo porque le dijimos que tire calma ante y se salio del mapa",
     "reporter": "MaaxiiMaan\n ",
@@ -347,5 +390,17 @@
     "name": "Zed626",
     "reason": "Mata a los demas con el ataque de las bruja morgana a proposito",
     "bad": false
+  },
+  {
+    "reason": "Se salió del mapa por qué según \"no rushea mapas\" y ni daño hace",
+    "bad": false,
+    "name": "Zerotripleh",
+    "reporter": "MrTonyNS"
+  },
+  {
+    "reason": "jamas lo inviten, es un healer que solo usa w, para todo literal, no cura con nada mas que eso ni tira otras habilidades. ni camina el men.",
+    "bad": false,
+    "reporter": "Howardbe",
+    "name": "Zulinho"
   }
 ]

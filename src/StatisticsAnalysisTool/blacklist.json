@@ -115,6 +115,12 @@
     "bad": false
   },
   {
+    "name": "HighDontKnow",
+    "reason": "Sin motivo alguno se salió del mapa",
+    "bad": false,
+    "reporter": "Nailex09"
+  },
+  {
     "name": "HizumiLA",
     "reporter": "Shotyouhead",
     "reason": "Healer troll hizo perder mapa se comía las bombas del mapa puñado de plata se murió 5 veces en el boss",
@@ -238,6 +244,12 @@
     "reporter": "Howardbe"
   },
   {
+    "name": "NicoXpronnn",
+    "reporter": "Michi2193429",
+    "bad": false,
+    "reason": "se salio del grupo cuando iba iniciar el mapa y no entro al mapa resultando en que eramos 4 y no 5 se perdio el mapa"
+  },
+  {
     "reason": "No hacia daño como sc, falto demasiado daño para hacer las pulls (no usaba su chaqueta y tampoco hacia bien el combo) provocando que nos matara un total de 5 veces en el mapa (se perdio el mapa)",
     "bad": false,
     "reporter": "Zyxlux1",
@@ -330,10 +342,16 @@
     "bad": false
   },
   {
-    "reporter": "julio.9344",
+    "reporter": "julio.9344\n",
     "reason": "no sabe hacer pools y mata a la party y luego se sale del mapa",
     "bad": false,
     "name": "Tawejdati"
+  },
+  {
+    "reporter": "forami1",
+    "bad": false,
+    "reason": "healer toxico mata a los dps se pierde el mapa por que no cura ni tira cd",
+    "name": "Thunderking900"
   },
   {
     "name": "Tilininsanowaza",

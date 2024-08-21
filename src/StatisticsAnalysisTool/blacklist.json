@@ -1,5 +1,11 @@
 [
   {
+    "name": "Acrosx",
+    "bad": false,
+    "reporter": "williamnyse",
+    "reason": "Jugador toxico y mal sc... no se sabe el skip de garras, se cae, le echa la culpa al otro y se va siendo el offtank, se perdio el mapa 12."
+  },
+  {
     "name": "AMORDEPICES",
     "reporter": "forami1",
     "bad": false,
@@ -28,6 +34,12 @@
     "reporter": "Xiloj",
     "bad": false,
     "reason": "No era mi mapa. Asuntos Sospechosos 14. después de la pull del  cofre, había que hacer el mini skip y el tank Bie4ch no se puso zapatos de tenacidad. pasó rooteando. toda la party murió por el  mini boss (no fue culpa del tank) pero por lo mismo los mobs que rooteo lo alcanzaron los intentó pullear y por no haber healer murió. dijo \"GG\" y se salió del mapa por 1 caída."
+  },
+  {
+    "name": "Bryanmzev",
+    "reporter": "Blakenlifkun",
+    "bad": false,
+    "reason": "GENTE ME ACABO DE HACER UNA RUN CON ESTA PERZONA NIVEL 14-18. ME CULPA POR NO USAR MI POCION DE CALMA PARA SALVARLE Y DURO TOXIQUEANDO POR ESE MOTIVO DURANTE 3 MAPAS, SALIMOS DEL MAPA Y AUN SIGUE TOXIQUIENDO ME CRITICA MI BASTON  MI DAÑO MI CANAL DE DIRECTO MI GREMIO. NO SE Q LE HICE DE VERDAD PARA MERESER TANTA ATENCION DE SU PARTE PERO AL PARESER ME GANE UN SEGUIDOR XD."
   },
   {
     "reason": "sc troll se cayo una vez y se salio",
@@ -89,6 +101,12 @@
     "reporter": "Zyxlux1",
     "name": "Emenight",
     "bad": false
+  },
+  {
+    "name": "Ermezz",
+    "reason": "dps troll nos mato a todos pisando la mina y congelando al boss de FOS 2 veces, se perdio mapa",
+    "bad": false,
+    "reporter": "MCRigth"
   },
   {
     "name": "FarmaciaNT",
@@ -164,16 +182,16 @@
     "bad": false
   },
   {
-    "bad": false,
-    "reporter": "DeatOfSlayer",
-    "reason": "mata la party 5 veces en el inicio en un tres hermana 13 según por lag y mata nueva mente la party 4 veces mas en el boss porque no lo quería bug y que sabia hacerlas 3 juntas  nunca cancelo la habilidad de la de los cuervo y mato a la party se tiltea y abandono el mapa",
-    "name": "Kenyn520"
-  },
-  {
     "reason": "Vino a un mapa nivel 13 con un monje negro t5",
     "bad": true,
     "reporter": "Zeeky",
     "name": "Kingganjah"
+  },
+  {
+    "name": "Knightlara",
+    "reporter": "Howardbe",
+    "bad": false,
+    "reason": "terrible jugador no tenia daño, no sabe usar su equipamiento, en el boss de puñado de plata nos tira el veneno usando sus botas hacia la party. flamea diciendo esquiven siendo el el que nos tira el veneno sin que haya buenos defensivos, flamea re toxico, tiene la actitud de un niño de 12 años con berrinche"
   },
   {
     "reason": "cuidado con este sc el desgraciado casi me hace perder el mapa,no lansaba stickys no dejaba de morirse y en el boss lo tuve que tankear yo solo por que el se la paso todo el rato tirado en el piso y cuando revivi al toque se moria otra vez",
@@ -217,6 +235,12 @@
     "name": "MeeLack",
     "reason": " Batalla Eterna 18, Big Pull después del primer Skip.  Troleó en pull, haciendome morir al tirar una sticky a la pull y llamar el agro de los mobs, haciendo que la pull quedara desacomodada y no poder stunear a todos los mobs. morí por eso mismo. \nLe dije que para qué tiró sticky, y dijo  \"Soy tank 18 y acá uso sticky\" muy soberbio o muy egoplayer. le dije que él no estaba tanqueando para venir a hacer eso. Y se la pasó hablando basura todo el mapa. Dejo foto de lo que decía. ",
     "ref": "https://media.discordapp.net/attachments/1160317310645588089/1270592661304377384/image.png?ex=66b4ebe0&is=66b39a60&hm=2fbc52378cc02c712be14216e950f3a39a54efef80a2419024f12aa909db51bf&=&format=webp&quality=lossless"
+  },
+  {
+    "name": "Melfer13",
+    "reporter": "DeatOfSlayer",
+    "bad": false,
+    "reason": "se sale de un mapa 15 guerras pétreas muriendo 3 veces en la misma pull en las 2 después de la big porque no le dieron reset al patrol se va del mapa"
   },
   {
     "reason": "se salio del mapa porque se murio por culpa de el mismo y se perdio el mapa por falta de dmg",
@@ -306,6 +330,12 @@
     "bad": false
   },
   {
+    "bad": false,
+    "reason": "SC en la que se empieza armar la 1 primera pull la big solo se va sin mas",
+    "reporter": "DeatOfSlayer",
+    "name": "Riskol"
+  },
+  {
     "name": "Roert06",
     "reporter": "vitilio",
     "reason": "se salio del mapa por que murio en el skip de garra tirando E",
@@ -342,7 +372,7 @@
     "bad": false
   },
   {
-    "reporter": "julio.9344\n",
+    "reporter": "julio.9344",
     "reason": "no sabe hacer pools y mata a la party y luego se sale del mapa",
     "bad": false,
     "name": "Tawejdati"
@@ -356,7 +386,7 @@
   {
     "name": "Tilininsanowaza",
     "reason": "se enojo porque le dijimos que tire calma ante y se salio del mapa",
-    "reporter": "MaaxiiMaan\n ",
+    "reporter": "MaaxiiMaan",
     "bad": false,
     "ref": ""
   },
@@ -373,10 +403,22 @@
     "name": "Vaxei"
   },
   {
+    "name": "Wshiky",
+    "reporter": "LukyG14",
+    "bad": false,
+    "reason": "Estábamos haciendo un batalla eterna y estábamos en el boss por alguna razón me dio el critico de lleno y andava con casco de guardatumbas(se me olvido ponerme el otro) y sobreviví como a 1 de vida el problema el tank también así que le tire casco y me mori en ese momento puse RE para que se den cuenta que me mori pero tardaron un poco en reaccionar y se murio el tank y el whyski y me insulto sin motivo aparente, asumo que se tilteo por morir muy toxico el pib\n"
+  },
+  {
     "name": "Xbattou",
     "reporter": "MaaxiiMaan",
     "bad": false,
     "reason": "trolleo 3 vece congelando al tanke sin razo y queriendolo matar a proposito y despues de eso me intento matar ami con unos bichos"
+  },
+  {
+    "reason": "Se va afk en casi todo el mapa y tira de A antes del boss, no se perdió mapa por suerte",
+    "bad": false,
+    "reporter": "LukyG14",
+    "name": "Xerenjaegerx"
   },
   {
     "reason": "TROLLEO MAPA MURIENDOSE COMO 5 VECE Y MATANDO A LA PARTY MUCHAS VECES se perdio mapa era mio",
